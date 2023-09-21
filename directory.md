@@ -1,5 +1,8 @@
-# THENOW TEAM DIRECTORY
-## FOUNDER/CEO | Ethan (Doc) Barrett
-Email: contactedmaintenance@gmail.com
-## COO | Hanaka (Teddy) Endo
-Email: hanakaendo@gmail.com
+# TEAM DIRECTORY
+## FOUNDER/CEO
+<b>Ethan (Doc) Barrett</b>
+<br>Email: contactedmaintenance@gmail.com
+## ADVISOR
+<b>Hanaka (Teddy) Endo</b>
+<br>Email: hanakaendo@gmail.com
+
