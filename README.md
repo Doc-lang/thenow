@@ -1,2 +1,2 @@
-# thenow
+# THENOW
 The relevant social media
