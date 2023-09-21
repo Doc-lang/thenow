@@ -1,2 +1,3 @@
 # THENOW
-The relevant social media
+## ✨ The Relevant Social Media ✨
+### [Team Directory](directory.md)
