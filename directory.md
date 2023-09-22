@@ -1,8 +1,8 @@
 # TEAM DIRECTORY
 ## Founder/CEO
-<b>Ethan (Doc) Barrett</b>
+<b>Ethan (Doc)</b>
 <br>Email: contactedmaintenance@gmail.com
 ## Coordinator
-<b>Hanaka (Teddy) Endo</b>
+<b>Hanaka (Teddy)</b>
 <br>Email: hanakaendo@gmail.com
 
