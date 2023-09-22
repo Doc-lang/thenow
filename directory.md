@@ -5,4 +5,6 @@
 ## Coordinator
 <b>Hanaka (Teddy)</b>
 <br>Email: hanakaendo@gmail.com
-
+## Development
+<b>Anshu</b>
+<br>Email: anshuverma.av2187@gmail.com
