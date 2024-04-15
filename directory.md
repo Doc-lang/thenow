@@ -1,6 +1,6 @@
 # TEAM DIRECTORY
 ## Founder/CEO
-<b>Ethan (Doc)</b>
+<b>Ethan B.</b>
 <br>Email: ethan@thenow.io
 ## Assistant
 <b>Clover L.</b>
