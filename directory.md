@@ -1,10 +1,11 @@
 # TEAM DIRECTORY
 ## Founder/CEO
 <b>Ethan (Doc)</b>
-<br>Email: contactedmaintenance@gmail.com
+<br>Email: ethan@thenow.io
+## Assistant
+<b>Clover L.</b>
+<br>Email clover@thenow.io
 ## Coordinator
-<b>Hanaka (Teddy)</b>
-<br>Email: hanakaendo@gmail.com
+
 ## Development
-<b>Anshu</b>
-<br>Email: anshuverma.av2187@gmail.com
+
